@@ -1,0 +1,31 @@
+{
+  "header": {
+    "title": "THE DAILY BUGLE",
+    "subtitle": "NEW YORK'S FINEST DAILY NEWSPAPER",
+    "breaking": "BREAKING NEWS",
+    "date": "May 27, 2025"
+  },
+  "article": {
+    "headline": "MONSTER MAYHEM AT MUSEO SOUMAYA!",
+    "subheadline": "Giant Robot Prop Crushes Child's Dreams (And Nearly Child)",
+    "byline": "By J. JONAH JAMESON, Editor-in-Chief",
+    "date": "Mexico City - May 27, 2025",
+    "leadParagraph": "FOLKS, what I'm about to tell you will shock you to your very core! In yet ANOTHER example of Hollywood's reckless disregard for public safety, a massive Pacific Rim movie prop has caused absolute CHAOS at the prestigious Museo Soumaya in Mexico City!",
+    "body": [
+      "This reporter has learned that during what was supposed to be a \"sophisticated cultural exhibition\" organized by none other than Guillermo del Toro himself, a GIGANTIC robot prop - standing over 30 FEET TALL - came crashing down like a house of cards! And who was the innocent victim of this Hollywood negligence? A sweet, defenseless child clutching nothing but a innocent Godzilla plushie!",
+      "\"It was absolute pandemonium!\" reported witness Maria Gonzalez. \"One moment the child was admiring the display, hugging their little Godzilla toy, and the next moment - CRASH! This massive metal monster comes tumbling down!\"",
+      "But here's the REAL kicker, folks - where was the so-called \"friendly neighborhood\" Spider-Man during all this? NOWHERE TO BE FOUND! While innocent children are being terrorized by Hollywood's mechanical monstrosities, our web-slinging menace is probably off taking selfies or whatever it is masked vigilantes do these days!",
+      "The child, thankfully, suffered only minor injuries and refused to let go of their Godzilla plushie throughout the entire ordeal. \"At least someone knows how to hold onto what's important,\" I say! Unlike certain WALL-CRAWLING MENACES who can't even show up when the city ACTUALLY needs them!",
+      "Del Toro's exhibition, which was meant to showcase the \"artistry of monster cinema,\" has been temporarily closed pending a full investigation. This reporter demands answers: How many more children must suffer before Hollywood learns to keep their oversized toys PROPERLY SECURED?"
+    ],
+    "closingStatement": "Mark my words - if Spider-Man had been doing his job instead of gallivanting around in that ridiculous costume, this NEVER would have happened! The real monsters aren't in the movies, folks - they're swinging through our streets!",
+    "editorNote": "EDITOR'S NOTE: The Daily Bugle continues its ongoing investigation into Spider-Man's whereabouts during this crisis. Any information regarding the wall-crawler's negligence should be reported immediately.",
+    "videos": {
+      "caption1": "EXCLUSIVE FOOTAGE: The aftermath at Museo Soumaya as emergency responders rush to help the injured child who refused to let go of their Godzilla plushie!",
+      "caption2": "BREAKING: Child and beloved Godzilla plushie en route to hospital. Notice how the brave youngster REFUSES to let go!",
+      "caption3": "EXCLUSIVE: More footage of the ambulance response. The dedication of this child to their Godzilla companion is truly heartwarming!",
+      "caption4": "FINAL UPDATE: The young victim safely arrives at the hospital, Godzilla plushie still firmly in hand. A true bond that even Hollywood disasters cannot break!"
+    }
+  },
+  "footer": "© 2025 The Daily Bugle - \"If it's news, we'll print it!\""
+}

@@ -1,0 +1,31 @@
+{
+  "header": {
+    "title": "EL CLARÍN DIARIO",
+    "subtitle": "EL MEJOR PERIÓDICO DIARIO DE NUEVA YORK",
+    "breaking": "NOTICIAS DE ÚLTIMA HORA",
+    "date": "27 de Mayo, 2025"
+  },
+  "article": {
+    "headline": "¡CAOS MONSTRUOSO EN MUSEO SOUMAYA!",
+    "subheadline": "Prop de Robot Gigante Aplasta los Sueños de un Niño (Y Casi al Niño)",
+    "byline": "Por J. JONAH JAMESON, Editor en Jefe",
+    "date": "Ciudad de México - 27 de Mayo, 2025",
+    "leadParagraph": "¡AMIGOS, lo que estoy a punto de contarles los sacudirá hasta los huesos! En OTRO ejemplo más de la imprudencia temeraria de Hollywood hacia la seguridad pública, ¡un prop masivo de Pacific Rim ha causado CAOS absoluto en el prestigioso Museo Soumaya en la Ciudad de México!",
+    "body": [
+      "Este reportero se ha enterado de que durante lo que se suponía que era una \"sofisticada exhibición cultural\" organizada por nada menos que Guillermo del Toro, ¡un prop de robot GIGANTESCO - de más de 30 PIES DE ALTURA - se vino abajo como un castillo de naipes! ¿Y quién fue la víctima inocente de esta negligencia de Hollywood? ¡Un niño dulce e indefenso que no sostenía más que un inocente peluche de Godzilla!",
+      "\"¡Fue un pandemonium absoluto!\" reportó la testigo María González. \"Un momento el niño estaba admirando la exhibición, abrazando su pequeño juguete de Godzilla, y al siguiente momento - ¡CRASH! ¡Este monstruo metálico masivo viene cayendo!\"",
+      "Pero aquí está la VERDADERA patada, amigos - ¿dónde estaba el supuesto Spider-Man del \"vecindario amigable\" durante todo esto? ¡EN NINGUNA PARTE! Mientras niños inocentes están siendo aterrorizados por las monstruosidades mecánicas de Hollywood, ¡nuestra amenaza que se columpia probablemente estaba tomándose selfies o haciendo lo que sea que hacen los vigilantes enmascarados estos días!",
+      "El niño, afortunadamente, sufrió solo heridas menores y se negó a soltar su peluche de Godzilla durante toda la terrible experiencia. \"¡Al menos alguien sabe cómo aferrarse a lo que es importante!\", ¡digo yo! ¡A diferencia de ciertas AMENAZAS TREPADORAS que ni siquiera pueden aparecer cuando la ciudad REALMENTE los necesita!",
+      "La exhibición de del Toro, que pretendía mostrar la \"artisticidad del cine de monstruos\", ha sido cerrada temporalmente pending una investigación completa. Este reportero exige respuestas: ¿Cuántos niños más deben sufrir antes de que Hollywood aprenda a mantener sus juguetes gigantes DEBIDAMENTE ASEGURADOS?"
+    ],
+    "closingStatement": "¡Marquen mis palabras - si Spider-Man hubiera estado haciendo su trabajo en lugar de pavonearse en ese ridículo disfraz, esto NUNCA habría pasado! ¡Los verdaderos monstruos no están en las películas, amigos - están columpiándose por nuestras calles!",
+    "editorNote": "NOTA DEL EDITOR: El Clarín Diario continúa su investigación sobre el paradero de Spider-Man durante esta crisis. Cualquier información sobre la negligencia del trepador debería reportarse inmediatamente.",
+    "videos": {
+      "caption1": "¡METRAJE EXCLUSIVO: Las secuelas en el Museo Soumaya mientras los servicios de emergencia corren a ayudar al niño herido que se negó a soltar su peluche de Godzilla!",
+      "caption2": "¡ÚLTIMA HORA: Niño y querido peluche de Godzilla camino al hospital. ¡Noten cómo el valiente pequeño SE NIEGA a soltarlo!",
+      "caption3": "¡EXCLUSIVO: Más metraje de la respuesta de la ambulancia. ¡La dedicación de este niño a su compañero Godzilla es verdaderamente conmovedora!",
+      "caption4": "¡ACTUALIZACIÓN FINAL: La joven víctima llega segura al hospital, peluche de Godzilla aún firmemente en sus manos. ¡Un vínculo verdadero que ni los desastres de Hollywood pueden romper!"
+    }
+  },
+  "footer": "© 2025 El Clarín Diario - \"¡Si es noticia, la imprimimos!\""
+}
