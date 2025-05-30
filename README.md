@@ -45,10 +45,6 @@ daily-bugle
    ```
 4. Open `src/index.html` in your web browser to view the website.
 
-## Contributing
-
-Feel free to contribute to the project by submitting issues or pull requests. Your feedback and suggestions are welcome!
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
